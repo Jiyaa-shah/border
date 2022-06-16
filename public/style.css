@@ -1,0 +1,83 @@
+#bg1{
+    height: 600px;
+    background-image: url('./images/beach.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.heading-paragraph-alignment{
+    position:absolute;
+    margin-top: 200px;
+    margin-left: 28%;
+    text-align: center;
+    /* background-color: yellowgreen; */
+    font-size:25px;
+}
+
+.classButton{
+    margin: auto;
+    height: 35px;
+    width: 140px;
+    border-style: solid;
+    border-color: lightblue;
+    font-size: 20px;
+    padding-top: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+a:link,a:visited  {
+    text-decoration: none;
+    color: white;
+}
+
+#bg2{
+    background-color:#F3F0F5;
+    height: 150px;
+    text-align: center;
+    padding-top: 50PX;
+    padding-left:20px ;
+    padding-right:20px ;
+    font-size: 25px;
+}
+
+#bg3{
+    background-color:white;
+    height: 150px;
+    text-align: center;
+    padding-top: 50PX;
+    padding-left:20px ;
+    padding-right:20px ;
+    font-size: 25px;
+}
+
+#bg4{
+    background-color:#F3F0F5;
+    height: 200PX;
+    width: 100%;
+}
+
+.border{
+    display: inline-block;
+    width: 31.5%;
+    background-color:#e3e2e4;
+    height: 89%;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+    
+}
+
+.border2{
+    display: inline-block;
+    width: 31.5%;
+    background-color:white;
+    height: 89%;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+}
+
+
+
+
